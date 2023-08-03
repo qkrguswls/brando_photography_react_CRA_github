@@ -477,13 +477,13 @@
                 
                     switch(cols) {
                         case 3:
-                            $('.list1') .stop().show().animate({top: 0, left: (imgW * 0) + (40 * 0)}, 300);
-                            $('.list4') .stop().show().animate({top: 0, left: (imgW * 1) + (40 * 1)}, 300);
-                            $('.list5') .stop().show().animate({top: 0, left: (imgW * 2) + (40 * 2)}, 300);
+                            $('.list1').stop().show().animate({top: 0, left: (imgW * 0) + (40 * 0)}, 300);
+                            $('.list4').stop().show().animate({top: 0, left: (imgW * 1) + (40 * 1)}, 300);
+                            $('.list5').stop().show().animate({top: 0, left: (imgW * 2) + (40 * 2)}, 300);
                             
-                            $('.list7') .stop().show().animate({top: (imgH1 + 40), left: (imgW * 0) + (40 * 0)}, 300);
+                            $('.list7').stop().show().animate({top: (imgH1 + 40), left: (imgW * 0) + (40 * 0)}, 300);
                             $('.list10').stop().show().animate({top: (imgH2 + 40), left: (imgW * 1) + (40 * 1)}, 300);
-                            $('.list8') .stop().show().animate({top: (imgH1 + 40), left: (imgW * 2) + (40 * 2)}, 300);
+                            $('.list8').stop().show().animate({top: (imgH1 + 40), left: (imgW * 2) + (40 * 2)}, 300);
         
                             $('.list12').stop().show().animate({top: (imgH1 + 40 + imgH1 + 40), left: (imgW * 0) + (40 * 0)}, 300);
                             $('.list11').stop().show().animate({top: (imgH1 + 40 + imgH2 + 40), left: (imgW * 2) + (40 * 2)}, 300);
