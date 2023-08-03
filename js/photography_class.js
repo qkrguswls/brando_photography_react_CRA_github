@@ -8,11 +8,9 @@
             this.footer();
         }
         header(){
-            window.onload = function() {
-                setTimeout(function(){
-                    scrollTo(0,0);
-                },100);
-            }
+            window.onbeforeunload = function pushRefresh() {
+                window.scrollTo(0, 0);
+            };
             
             $('.mobile-btn').on({
                 click(e){
