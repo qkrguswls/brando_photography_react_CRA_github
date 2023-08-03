@@ -23,7 +23,7 @@ function HeaderComponent(){
                            <li><a href="#section15" className="nav-btn">CONTACT</a></li>
                         </ul>
                         <div className="mobile">
-                           <a href="#" className="mobile-btn">
+                           <a href="!#" className="mobile-btn">
                               <i className="line line1"></i>
                               <i className="line line2"></i>
                               <i className="line line3"></i>
@@ -80,7 +80,7 @@ function MainComponent(){
                                     <p>
                                         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the standard dummy text. Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                     </p>
-                                    <span><a href="#">CONTACT NOW</a></span>
+                                    <span><a href="!#">CONTACT NOW</a></span>
                                 </div>
                             </div>
                         </div>
@@ -101,7 +101,7 @@ function MainComponent(){
                                     <p>
                                         Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s. Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                                     </p>
-                                    <span><a href="#">SEE PORTFOLIO</a></span>
+                                    <span><a href="!#">SEE PORTFOLIO</a></span>
                                 </div>
                             </div>
                         </div>
@@ -122,7 +122,7 @@ function MainComponent(){
                                             <img src="./img/photography-img7.jpg" alt=""/>
                                             <figcaption className="caption-box">
                                                 <h3>PEOPLE</h3>
-                                                <span><a href="#">SEE PORTFOLICO</a></span>
+                                                <span><a href="!#">SEE PORTFOLICO</a></span>
                                             </figcaption>
                                         </figure>
                                     </div>
@@ -133,7 +133,7 @@ function MainComponent(){
                                             <img src="./img/photography-img8.jpg" alt=""/>
                                             <figcaption className="caption-box">
                                                 <h3>NATURE</h3>
-                                                <span><a href="#">SEE PORTFOLICO</a></span>
+                                                <span><a href="!#">SEE PORTFOLICO</a></span>
                                             </figcaption>
                                         </figure>
                                     </div>
@@ -144,7 +144,7 @@ function MainComponent(){
                                             <img src="./img/photography-img9.jpg" alt=""/>
                                             <figcaption className="caption-box">
                                                 <h3>WILDLIFE</h3>
-                                                <span><a href="#">SEE PORTFOLICO</a></span>
+                                                <span><a href="!#">SEE PORTFOLICO</a></span>
                                             </figcaption>
                                         </figure>
                                     </div>
@@ -155,7 +155,7 @@ function MainComponent(){
                                             <img src="./img/photography-img10.jpg" alt=""/>
                                             <figcaption className="caption-box">
                                                 <h3>OBJECTS</h3>
-                                                <span><a href="#">SEE PORTFOLICO</a></span>
+                                                <span><a href="!#">SEE PORTFOLICO</a></span>
                                             </figcaption>
                                         </figure>
                                     </div>
@@ -174,11 +174,11 @@ function MainComponent(){
                         <div className="content">
                             <nav>
                                 <ul>
-                                    <li><a href="#" className="gallery-btn on"><span>ALL</span></a></li>
-                                    <li><a href="#" className="gallery-btn"><span>NATURE</span></a></li>
-                                    <li><a href="#" className="gallery-btn"><span>OBJECT</span></a></li>
-                                    <li><a href="#" className="gallery-btn"><span>PEOPLE</span></a></li>
-                                    <li><a href="#" className="gallery-btn"><span>WILDLIFE</span></a></li>
+                                    <li><a href="!#" className="gallery-btn on"><span>ALL</span></a></li>
+                                    <li><a href="!#" className="gallery-btn"><span>NATURE</span></a></li>
+                                    <li><a href="!#" className="gallery-btn"><span>OBJECT</span></a></li>
+                                    <li><a href="!#" className="gallery-btn"><span>PEOPLE</span></a></li>
+                                    <li><a href="!#" className="gallery-btn"><span>WILDLIFE</span></a></li>
                                 </ul>
                             </nav>
                             <div className="gallery">
@@ -447,7 +447,7 @@ function MainComponent(){
                         </div>
                         <div className="right">
                             <p>IT IS MORE IMPORTANT TO CLICK WITH PEOPLE THAN TO CLICK THE SHUTTER.</p>
-                            <h6>POSTED BY <a href="#">HARESH</a></h6>
+                            <h6>POSTED BY <a href="!#">HARESH</a></h6>
                         </div>
                     </div>
                 </div>
@@ -461,7 +461,7 @@ function MainComponent(){
                         </div>
                         <div className="right">
                             <p>BAD DESIGN IS SMOKE, WHILE GOOD DESIGN IS A MIRROR.</p>
-                            <h6>POSTED BY <a href="#">HARESH</a></h6>
+                            <h6>POSTED BY <a href="!#">HARESH</a></h6>
                         </div>
                     </div>
                 </div>
@@ -475,7 +475,7 @@ function MainComponent(){
                         </div>
                         <div className="right">
                             <p>WE ARE MAKING PHOTOGRAPHS TO UNDERSTAND WHAT OUR LIVES MEAN TO US.</p>
-                            <h6>POSTED BY <a href="#">HARESH</a></h6>
+                            <h6>POSTED BY <a href="!#">HARESH</a></h6>
                         </div>
                     </div>
                 </div>
@@ -489,7 +489,7 @@ function MainComponent(){
                         </div>
                         <div className="right">
                             <p>YOU DON’T TAKE A PHOTOGRAPH. YOU ASK QUIETLY TO BORROW IT.</p>
-                            <h6>POSTED BY <a href="#">HARESH</a></h6>
+                            <h6>POSTED BY <a href="!#">HARESH</a></h6>
                         </div>
                     </div>
                 </div>
@@ -503,7 +503,7 @@ function MainComponent(){
                         </div>
                         <div className="right">
                             <p>A PORTRAIT IS NOT MADE IN THE CAMERA BUT ON EITHER SIDE OF IT.</p>
-                            <h6>POSTED BY <a href="#">HARESH</a></h6>
+                            <h6>POSTED BY <a href="!#">HARESH</a></h6>
                         </div>
                     </div>
                 </div>
@@ -570,11 +570,11 @@ function FooterComponent(){
             <div className="container">
                <div className="gap">
                   <div className="row1">
-                        <a href="#"><i className="fa fa-facebook-f"></i></a>
-                        <a href="#"><i className="fa fa-twitter"></i></a>
-                        <a href="#"><i className="fa fa-dribbble"></i></a>
-                        <a href="#"><i className="fa fa-youtube-play"></i></a>
-                        <a href="#"><i className="fa fa-linkedin"></i></a>
+                        <a href="!#"><i className="fa fa-facebook-f"></i></a>
+                        <a href="!#"><i className="fa fa-twitter"></i></a>
+                        <a href="!#"><i className="fa fa-dribbble"></i></a>
+                        <a href="!#"><i className="fa fa-youtube-play"></i></a>
+                        <a href="!#"><i className="fa fa-linkedin"></i></a>
                   </div>
                   <hr/>
                   <div className="row2">
