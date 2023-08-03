@@ -8,6 +8,12 @@
             this.footer();
         }
         header(){
+            window.onload = function() {
+                setTimeout(function(){
+                    scrollTo(0,0);
+                },100);
+            }
+            
             $('.mobile-btn').on({
                 click(e){
                     e.preventDefault();
