@@ -8,10 +8,6 @@
             this.footer();
         }
         header(){
-            window.onbeforeunload = function pushRefresh() {
-                window.scrollTo(0, 0);
-            };
-            
             $('.mobile-btn').on({
                 click(e){
                     e.preventDefault();
@@ -608,7 +604,7 @@
                         날짜: toDay
                     };
                     $.ajax({
-                        url: 'https://qkrguswls309.dothome.co.kr/brando_photograpy_cors/form_mail_ajax_insert.php',
+                        url: 'https://qkrguswls309.com/brando_photograpy_cors/form_mail_ajax_insert.php',
                         type: 'POST',
                         data: formData,
                         success(result){
